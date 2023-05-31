@@ -1,6 +1,6 @@
-# Учебный проект на DjangoRest framework
+# API на DjangoRest framework
 
-- Docker и docker compose
+- развертывание через Docker и docker-compose
 - база данных PostgreSQL
 - Celery для управлением очередями задач
 - брокер сообщений Redis
